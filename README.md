@@ -23,6 +23,9 @@ Select the tool that fits your current need. Click the **Open in Colab** badge t
 4. **Results:** - A **CSV report** will be generated in the sidebar folder.
    - **Word Clouds** will appear automatically to highlight key themes.
 
+### 🆘 Stuck in a Cooldown?
+If the scraper hangs for too long, open the [Emergency Processor](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Utils/Emergency_Processor.ipynb) to generate a report using the data already collected.
+
 ## 📊 Producer Insights
 - **Green Cloud:** Positive themes (What players love).
 - **Red Cloud:** Critical themes (Technical bugs, balance issues, or UI friction).
